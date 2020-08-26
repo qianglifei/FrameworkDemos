@@ -1,0 +1,7 @@
+rootProject.name='FrameworkDemos'
+include ':app'
+include ':common'
+include ':homepage'
+include ':people_management'
+include ':epidemic_situation'
+include ':mine'
